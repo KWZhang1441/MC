@@ -1,3 +1,5 @@
+install.packages("MASS")
+
 #Monte Carlo hypothesis testing
 #First let's start with a sampling distribution that we're going to be simulating from
 #We're going to simulate 60 dice throws with a bias towards rolling a 6
